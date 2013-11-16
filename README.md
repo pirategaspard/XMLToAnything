@@ -9,7 +9,7 @@ Use XMLToAnything to generate Coldfusion data types from XML docs. This can be u
 <li>2010/01/21 Uses type hinting from AnythingToXML for improved results</li>
 <li>2008/06/26 Updated ADD Query Attributes function</li>
 <li>2008/06/11 initial release</li>
-<ul>
+</ul>
 
 ## License (Simplified BSD)
 
