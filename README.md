@@ -3,6 +3,11 @@ XMLToAnything
 
 Use XMLToAnything to generate Coldfusion data types from XML docs. This can be useful if you want to work with structures, arrays, and queries instead of parsing the XML doc. 
 
+Works best with XML that has been created with AnythingToXML, but will work with any XML. 
+
+XMLToAnything will create a structure, or an array of structures from the XML. It will also attempt to determine possible queries and give a best guess at column names. Obviously this process is not 100% accurate. 
+
+This can also be used if you have a XML template and need to figure out how to structure the data so that it can be generated with AnythingToXML.
 
 ##Updates
 <ul>
