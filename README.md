@@ -9,6 +9,13 @@ XMLToAnything will create a structure, or an array of structures from the XML. I
 
 This can also be used if you have a XML template and need to figure out how to structure the data so that it can be generated with AnythingToXML.
 
+Please see the example.cfm file for basic usage. 
+
+I hope you find XMLToAnything useful!  
+\- Dan   
+http://danielgaspar.com
+
+
 ##Updates
 <ul>
 <li>2010/01/21 Uses type hinting from AnythingToXML for improved results</li>
